@@ -2,7 +2,7 @@
 #include <string>
 
 
-using namespace std;
+char r;
 
 int main(){
 }
